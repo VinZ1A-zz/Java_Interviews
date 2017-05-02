@@ -1,0 +1,14 @@
+<players>
+ <player>
+    <name>VinZo</name>
+    <human>true</human>
+ </player>
+ <player>
+    <name>Marcel</name>
+    <human>false</human>
+ </player>
+ <player>
+    <name>Roger</name>
+    <human>false</human>
+ </player>
+</players>
